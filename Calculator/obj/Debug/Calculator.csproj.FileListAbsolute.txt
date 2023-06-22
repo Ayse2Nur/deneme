@@ -1,0 +1,11 @@
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Casper\OneDrive\Masaüstü\Calculator\Calculator\Calculator\obj\Debug\Calculator.inheritForm.resources
